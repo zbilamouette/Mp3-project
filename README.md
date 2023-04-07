@@ -30,6 +30,6 @@ Ces instructions vous permettront d'utiliser l'application à partir de n'import
 2. Posseder un navigateur internet
 ## Accès à l'application
 * Recupérer l'adresse ip du serveur (nous prendrons 172.0.1.1 pour notre exemple)
-* Accéder au dossier `Web` du serveur sur le port `5500` ce qui donne pour l'exemple `172.0.1.1:5500/Web`
+* Accéder au dossier `Web` du serveur sur le port choisi ce qui donne pour l'exemple `172.0.1.1:8080/Web`
 * Enjoy!
 
