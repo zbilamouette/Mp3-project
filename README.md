@@ -17,7 +17,7 @@ Ces instructions vous permettront de lancer le serveur de l'application
    * Les musiques doivent etre dans un format precis qui est `Auteur - Titre`
    * Pour que le client puisse jouer la musique sur son appareil, inserer les memes musiques (format .mp3) dans le dossier `Web/mp3`
 ## Lancement de l'application
-* Lancer un Open Live Server depuis VS Code ou un Apache Server
+* Lancer un Open Live Server depuis VS Code ou un Apache Server qui pointe vers le index.html du dossier `Web`
 * Se placer dans le dossier `java` du projet
 * Compiler tous les fichiers java avec la commande `javac */*.java`
 * Exécuter le fichier `Main` du dossier server à l'aide de la commande `java server.Main`
